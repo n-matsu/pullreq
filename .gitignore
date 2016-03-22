@@ -1,0 +1,6 @@
+*.[oa]
+*~
+*.tmp
+*.temp
+.vagrant/
+*.bak
